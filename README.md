@@ -1,16 +1,8 @@
 # smarthome_ui
 
-A new Flutter project.
+<img width="190" alt="image" src="https://user-images.githubusercontent.com/114337820/211523893-a6c53b79-1749-481a-aed8-65aaf95f5133.png">
 
-## Getting Started
+<img width="191" alt="image" src="https://user-images.githubusercontent.com/114337820/211523821-dee02695-6063-4fb7-a454-bb9fd70b0f7c.png">
 
-This project is a starting point for a Flutter application.
+<img width="191" alt="image" src="https://user-images.githubusercontent.com/114337820/211523990-6f6295ce-8930-4210-a255-8e7243352160.png">
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
